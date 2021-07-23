@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: linear-gradient(to right, #ffffff, #dac0ff);
+    width: 100vw;
+    color: #3e4c59;
+    padding: 10px;
+    font-family: Roboto;
+}
+
+.count-style {
+    color: #323f4b;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.timer-img {
+    height: 60px;
+    width: 60px;
+    margin-right: 10px;
+}
+
+.quote-style {
+    color: #323f4b;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.fontweight-style {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.quote-card {
+    text-align: left;
+    padding: 10px;
+    background-color: #f3eaff;
+    border-radius: 20px;
+
+}
+
+.rstBtn {
+    background-color: #ffffff;
+    color: black;
+    margin: 10px;
+}
+
+.subBtn {
+    background-color: #690cb0;
+    color: white;
+}
+
+.main-heading {
+    color: #690cb0;
+    font-weight: bold;
+    margin: 10px;
+}
